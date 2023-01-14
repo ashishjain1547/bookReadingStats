@@ -1,6 +1,6 @@
 Beyond Reason: Using Emotions as You Negotiate (Daniel Shapiro and Roger Fisher, 2007)
 Anxiety and Phobia Workbook (Edmund Bourne, 6e, 2015)
-Jordan B. Peterson - 12 Rules for Life_ An Antidote to Chaos-Random House Canada (2018)
+Jordan B. Peterson - 12 Rules for Life. An Antidote to Chaos-Random House Canada (2018)
 Bessel van red Kolk - The Body Keeps the score (2022)
 
 = = = 
@@ -21,20 +21,23 @@ Avg words per page: 773
 27-Dec-2022 (1): ((8 - 10) * (-1) + 1) * 773 / 15 = 154.6
 27-Dec-2022 (2): ((12 - 16) * (-1) + 1) * 773 / 15 = 257.66
 27-Dec-2022 (3): ((17 - 19) * (-1) + 1) * 773 / 15 = 154.6
-RF 21
 
+= = =
 
+Book: Presuasion - A Revolutionary Way to Influence and Persuade by Robert Cialdini
+Lines per page: 36
+Avg word per line: ( 13 + 10 + 12 + 11 + 11 ) / 5 = 11.4
+Avg word per page: 410.4
 
+Page count: 241 - 77 = 164
+Approx word count: 410.4 * 164 = 67305.6
 
+Est. time required to read the book: 67305.6 (w) / 180 (wpm) = 373.92 minutes
 
+14-Jan-2023 (1): ((78 - 87) * (-1) + 1) * 410.4 / 15 = 273.6 
+14-Jan-2023 (2): ((88 - 98) * (-1) + 1) * 410.4 / 15 = 300.96 
 
-
-
-
-
-
-
-
+RF 142
 
 
 Book: The Boy Who Was Raised as a Dog And Other Stories (Bruce Perry)
