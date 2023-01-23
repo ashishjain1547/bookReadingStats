@@ -37,7 +37,24 @@ Est. time required to read the book: 67305.6 (w) / 180 (wpm) = 373.92 minutes
 14-Jan-2023 (1): ((78 - 87) * (-1) + 1) * 410.4 / 15 = 273.6 
 14-Jan-2023 (2): ((88 - 98) * (-1) + 1) * 410.4 / 15 = 300.96 
 
-RF 142
+= = = 
+
+Book: James K. Sebenius & David A. Lax - 3-D Negotiation_Harvard Business School Press (2008)
+Lines per page: 36
+Avg word per line: (9 + 12 + 10 + 9 + 10) / 5 = 10
+Avg word per page: 360
+
+Page count: 332 - 35 = 297
+Approx. word count: 297 * 360 = 106920
+
+Est time required to read the book: 106920 / 180 = 594 minutes
+
+23-Jan-2023 (1): ((40 - ) * (-1) + 1) * 360 / 15 = 
+
+RF 81
+
+= = =
+
 
 
 Book: The Boy Who Was Raised as a Dog And Other Stories (Bruce Perry)
