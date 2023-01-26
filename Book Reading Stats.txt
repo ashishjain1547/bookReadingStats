@@ -66,8 +66,8 @@ Approx. word count: 379 * 288 = 109152
 
 Est. time required to read the book: 109152 / 180 = 606.4
 
-RF 67
+RF 131
 
-
+= = = 
 
 
