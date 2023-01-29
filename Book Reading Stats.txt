@@ -1,44 +1,3 @@
-Beyond Reason: Using Emotions as You Negotiate (Daniel Shapiro and Roger Fisher, 2007)
-Anxiety and Phobia Workbook (Edmund Bourne, 6e, 2015)
-Jordan B. Peterson - 12 Rules for Life. An Antidote to Chaos-Random House Canada (2018)
-Bessel van red Kolk - The Body Keeps the score (2022)
-
-= = = 
-
-Book: Thanks for the Feedback: The Science and Art of Receiving Feedback Well (Douglas Stone)
-Lines per page: 36
-Avg words per line: (16 + 18 + 13 + 14 + 14) / 5 = 15
-Avg words per page: 540
- 
-= = = 
-
-Book: Jordan B. Peterson - Beyond Order. 12 More Rules for Life - Penguin (2021)
-
-Lines per page: 46
-Avg words per line: (17 + 14 + 18 + 17 + 18) / 5 = 16.8
-Avg words per page: 773
-
-27-Dec-2022 (1): ((8 - 10) * (-1) + 1) * 773 / 15 = 154.6
-27-Dec-2022 (2): ((12 - 16) * (-1) + 1) * 773 / 15 = 257.66
-27-Dec-2022 (3): ((17 - 19) * (-1) + 1) * 773 / 15 = 154.6
-
-= = =
-
-Book: Presuasion - A Revolutionary Way to Influence and Persuade by Robert Cialdini
-Lines per page: 36
-Avg word per line: ( 13 + 10 + 12 + 11 + 11 ) / 5 = 11.4
-Avg word per page: 410.4
-
-Page count: 241 - 77 = 164
-Approx word count: 410.4 * 164 = 67305.6
-
-Est. time required to read the book: 67305.6 (w) / 180 (wpm) = 373.92 minutes
-
-14-Jan-2023 (1): ((78 - 87) * (-1) + 1) * 410.4 / 15 = 273.6 
-14-Jan-2023 (2): ((88 - 98) * (-1) + 1) * 410.4 / 15 = 300.96 
-
-= = = 
-
 Book: James K. Sebenius & David A. Lax - 3-D Negotiation_Harvard Business School Press (2008)
 Lines per page: 36
 Avg word per line: (9 + 12 + 10 + 9 + 10) / 5 = 10
@@ -57,17 +16,32 @@ Time required using Python: (332 - 81) * 360 / 180 = 502 mins
 
 Book: The Boy Who Was Raised as a Dog And Other Stories (Bruce Perry)
 Lines per page: 30
-Avg words per line: (10 + 7 + 10 + 11 + 10) / 15 = 9.6
+Avg words per line: (10 + 7 + 10 + 11 + 10) / 5 = 9.6
 Avg words per page: 288
 
 Page count: 420 - 41 = 379
 
 Approx. word count: 379 * 288 = 109152
 
-Est. time required to read the book: 109152 / 180 = 606.4
+Est. time required to read the book in minutes: (379 * 131) / 180 = 275.8
 
-RF 131
+28-Jan-2023 (1): ((131 - ) * (-1) + 1) * 288 / 15 = 
+
+RF 241
 
 = = = 
 
+Book: John Brooks - Business Adventures_ Twelve Classic Tales from the World of Wall Street-Open Road Media (2014)
 
+Lines per page: 45
+
+Avg words per line: (16 + 18 + 17 + 17 + 16) / 5 = 16.8
+Avg words per page: 756
+
+Page count: 214 - 82 = 132
+
+Approx. word count: 132 * 756 = 99792
+
+Est. time required to read the book: 99792 / 180 = 554.4
+
+RF 99
