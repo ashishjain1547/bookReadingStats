@@ -12,22 +12,6 @@ Est time required to read the book: 106920 / 180 = 594 minutes
 
 Time required using Python: (332 - 81) * 360 / 180 = 502 mins
 
-= = =
-
-Book: The Boy Who Was Raised as a Dog And Other Stories (Bruce Perry)
-Lines per page: 30
-Avg words per line: (10 + 7 + 10 + 11 + 10) / 5 = 9.6
-Avg words per page: 288
-
-Page count: 420 - 41 = 379
-
-Approx. word count: 379 * 288 = 109152
-
-Est. time required to read the book in minutes: (379 * 131) / 180 = 275.8
-
-28-Jan-2023 (1): ((131 - ) * (-1) + 1) * 288 / 15 = 
-
-RF 241
 
 = = = 
 
