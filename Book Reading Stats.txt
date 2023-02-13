@@ -1,21 +1,26 @@
-Book: James K. Sebenius & David A. Lax - 3-D Negotiation_Harvard Business School Press (2008)
+Book: James K. Sebenius & David A. Lax - 3-D Negotiation. Harvard Business School Press (2008)
 Lines per page: 36
 Avg word per line: (9 + 12 + 10 + 9 + 10) / 5 = 10
 Avg word per page: 360
 
-Page count: 332 - 35 = 297
-Approx. word count: 297 * 360 = 106920
-
-Est time required to read the book: 106920 / 180 = 594 minutes
-
-23-Jan-2023 (1): ((40 - ) * (-1) + 1) * 360 / 15 = 
-
 Time required using Python: (332 - 81) * 360 / 180 = 502 mins
+
+7-Feb-2023 (1): ((100 - 107) * (-1) + 1) * 360 / 15 = 192 wpm
+7-Feb-2023 (2): ((108 - 117) * (-1) + 1) * 360 / 15 = 240
+10-Feb-2023 (1): ((156 - 167) * (-1) + 1) * 360 / 15 = 288
+
+10-Feb-2023 (1): ((168 - 173) * (-1) + 1) * 360 / 15 = 144
+10-Feb-2023 (2): ((174 - 179) * (-1) + 1) * 360 / 15 = 144
+
+Page count: 332 - 179 = 153
+Approx. word count: 153 * 360 = 55080
+Est time required to read the book: 55080 / 180 = 306 minutes
+
 
 
 = = = 
 
-Book: John Brooks - Business Adventures_ Twelve Classic Tales from the World of Wall Street-Open Road Media (2014)
+Book: John Brooks - Business Adventures. Twelve Classic Tales from the World of Wall Street-Open Road Media (2014)
 
 Lines per page: 45
 
@@ -29,3 +34,32 @@ Approx. word count: 132 * 756 = 99792
 Est. time required to read the book: 99792 / 180 = 554.4
 
 RF 99
+
+= = =
+
+Book: Kay Redfield Jamison - An Unquiet Mind (1996)
+
+Lines per page: 33
+
+Avg words per line: (9 + 10 + 8 + 11 + 12) / 5 = 10
+Avg words per page: 330
+
+Page count: 235 - 12 = 223
+Approx. word count: 223 * 330 = 73590
+Est. time required to read the book: (73590 / 180) = 408.8
+
+RF 27
+
+= = =
+
+Book: Hands on ML, skLearn and Tensorflow (Oreilly, 1e, Aurelion Geron)
+RF 250
+
+
+Book: Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning-The MIT Press (2016)
+RF 113 (Ch5)
+
+= = = 
+
+
+
