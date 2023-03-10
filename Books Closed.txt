@@ -202,7 +202,7 @@
 
 160. (158. Getting Past No (William Ury, 1993))
 161. (88. Essays of Warren Buffett, Lessons for corporate America.) 
-162. (33. Intelligent investor - Benjamin Graham, 4e)
+162. My Little Epiphanies (Aisha Chaudhary) # 20230215
 163. Bargaining for Advantage. Negotiation Strategies for Reasonable People. (G. Richard Shell, 2006) # Summarized
 164. Presuasion. A Revolutionary Way to Influence and Persuade by Robert Cialdini # 20230116
 165. The Boy Who Was Raised as a Dog And Other Stories (Bruce Perry) # 20230206
@@ -224,6 +224,7 @@
 181. Negotiating The Impossible (Deepak Malhotra, 2016) # 20220911
 182. The Body Keeps The Score (Bessel van red Kolk) # 20221010
 183. Thanks for the Feedback (by Douglas Stone) # 20221225
+184. 3-D Negotiation. Harvard Business School Press (James K. Sebenius & David A. Lax, 2008)
 
 
 ......................
@@ -248,8 +249,10 @@ Technology Books:
 Machine Learning Books:
 1. Machine Learning (Tom Mitchell, MGH, 1997)
 2. Pattern Recognition and Machine Learning (Bishop, Springer 2006)
-3. Hands on ML, skLearn and Tensorflow (Oreilly, 1e, Aurelion Geron)
+3. Hands on ML, skLearn and Tensorflow (Oreilly, 1e, Aurelion Geron) [X2]
 4. Learning Spark (Lightning fast big data analysis) - Andy Konwinski, Holden Karau, Matei Zaharia, Patrick Wendell (OReilly,  2015)
+5. Machine Learning in Python (Essential Techniques For Predictive Analysis) By: Michael Bowles
+
 
 .................................................................... 
 
