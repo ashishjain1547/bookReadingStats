@@ -58,21 +58,6 @@ RF 46
 
 = = =
 
-Book: Rich dad, poor dad (by Robert Kiyosaki)
-
-Lines per page: 34
-Avg words per line: (11 + 10 + 11 + 12 + 11) / 5 = 11
-Avg words per page: 374
-
-Page count: 179 - 
-
-RF 37
-
-
-
-= = =
-
-
 Book: Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning-The MIT Press (2016)
 RF 181
 Ch 6: Deep Feedforward networks
