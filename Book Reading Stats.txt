@@ -54,7 +54,7 @@ Page count: 250 - 10 = 240
 Approx. word count: 240 * 235 = 56400
 Est. time required to read: (56400 / 180) = 314
 
-RF 46
+RF 72/91
 
 = = =
 
@@ -63,7 +63,7 @@ RF 181
 Ch 6: Deep Feedforward networks
 
 Book: Andriy Burkov - The Hundred-Page Machine Learning Book (2019)
-RF 8
+RF 45
 
 Book: Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia - Learning Spark. Lightning-Fast Big Data Analysis (O'Reilly Media, 2015)
 
