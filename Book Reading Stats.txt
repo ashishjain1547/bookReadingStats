@@ -54,7 +54,7 @@ Page count: 250 - 10 = 240
 Approx. word count: 240 * 235 = 56400
 Est. time required to read: (56400 / 180) = 314
 
-RF 72/91
+RF 92/111
 
 = = =
 
