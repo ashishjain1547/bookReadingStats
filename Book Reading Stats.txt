@@ -8,8 +8,19 @@ A.
 B.
 1. Comprehension
 
+============================================================================
 
-= = = 
+Book: Mnookin, Robert - Bargaining with the devil. When to negotiate, when to fight.
+
+Lines per page: 35
+
+Avg words per line: (14 + 16 + 15 + 14 + 11) / 5 = 14
+
+Avg words per page: 490
+
+9-Aug: ((148 - 157) * (-1) + 1) * 490 / 20 = 245
+
+============================================================================
 
 Book: John Brooks - Business Adventures. Twelve Classic Tales from the World of Wall Street-Open Road Media (2014)
 
@@ -26,7 +37,7 @@ Est. time required to read the book: 99792 / 180 = 554.4
 
 RF 99
 
-= = =
+============================================================================
 
 Book: Kay Redfield Jamison - An Unquiet Mind (1996)
 
@@ -41,7 +52,7 @@ Est. time required to read the book: (73590 / 180) = 408.8
 
 RF 27
 
-= = =
+============================================================================
 
 Book: Emotional intelligence 2.0 (2009, Bradberry, Travis_Greaves, Jean)
 
@@ -56,7 +67,20 @@ Est. time required to read: (56400 / 180) = 314
 
 RF 92/111
 
-= = =
+============================================================================
+
+Book: James W. Pennebaker, John E. Evans - Expressive Writing_ Words that Heal-Idyll Arbor (2014)
+
+RF: 61
+
+
+============================================================================
+
+Book: 2_Jordan B. Peterson - Maps of Meaning_ The Architecture of Belief-Routledge (1999)
+
+RF: 222 / 245
+
+============================================================================
 
 Book: Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning-The MIT Press (2016)
 RF 181
@@ -75,7 +99,6 @@ RF 274
 
 
 
-= = = 
-
+============================================================================
 
 

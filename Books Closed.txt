@@ -154,7 +154,7 @@
 
 135. (125. 7 principles for making marriage work (John Gottman, PhD))
 
-136. Emotional Intelligence (Why it matters more than IQ) - Daniel Goleman
+136. Emotional Intelligence (Why it matters more than IQ) - Daniel Goleman
 
 137. Staggering Forward, Narendra Modi and India’s Global Ambition (2018) - Bharat Karnad 
 
@@ -189,19 +189,15 @@
 152. Never Split the Difference - Negotiating As If Your Life Depended On It (Chris Voss, 2016)
 
 153. (100. How to talk to anyone - Leil Lowndes)
-
 154. Negotiation Genius(Deepak Malhotra, Max Bazerman)
-
 155. (152. Never Split the Difference - Negotiating As If Your Life Depended On It (Chris Voss, 2016))
-
 156. (95. Getting to yes with yourself - William Ury (2015))
 
 157. You Can't Be Serious! Putting Humor to Work (Michael Kerr, 2001)
-
-158. Getting Past No (William Ury, 1993)159. (154. Negotiation Genius(Deepak Malhotra, Max Bazerman))
-
-160. (158. Getting Past No (William Ury, 1993))
-161. (88. Essays of Warren Buffett, Lessons for corporate America.) 
+158. Getting Past No (William Ury, 1993)
+159. Naked Statistics: Stripping the Dread from the Data (Book by Charles Wheelan) # 20230918
+160. Generative AI. A Non-Technical Introduction (by Tom Taulli, Apress (2023)) # July 21, 2023
+161. Zen Mind, Beginner's Mind (Shunryu Suzuki) # 2023-Nov-5
 162. My Little Epiphanies (Aisha Chaudhary) # 20230215
 163. Bargaining for Advantage. Negotiation Strategies for Reasonable People. (G. Richard Shell, 2006) # Summarized
 164. Presuasion. A Revolutionary Way to Influence and Persuade by Robert Cialdini # 20230116
@@ -226,9 +222,8 @@
 183. Thanks for the Feedback (by Douglas Stone) # 20221225
 184. 3-D Negotiation. Harvard Business School Press (James K. Sebenius & David A. Lax, 2008) # March 4, 2023
 185. Rich dad poor dad (Robert Kiyosaki) # March 14, 2023
-
 186. Negotiating the Nonnegotiable. How to Resolve Your Most Emotionally Charged Conflicts (Daniel Shapiro, 2016)
-
+187. Maps of Meaning. The Architecture of Belief (Jordan B. Peterson, 1999) - Pg 260/283
 
 ......................
 
@@ -240,12 +235,10 @@ Technology Books:
 5. Jasper Reporting
 6. AngularJS Up and Running
 7. Mastering bitcoin - Andrew M Antonopoulos
-
 8. Designing Bots: Creating Conversational Experiences [1e] (Amir Shevat)
-
 9. Hands-on Chatbots and Conversational UI Development (Packt) by Srini Janarthanam
-
-10. Jamie Munro - Knockout.js-O'Reilly Media (2014)
+10. Jamie Munro - Knockout.js (O'Reilly Media, 2014)
+11. Learn Python in One Day and Learn It Well. Python for Beginners with Hands-on Project (2017, Jamie Chan)
 
 ....................................................................
 
@@ -255,7 +248,7 @@ Machine Learning Books:
 3. Hands on ML, skLearn and Tensorflow (Oreilly, 1e, Aurelion Geron) [X2]
 4. Learning Spark (Lightning fast big data analysis) - Andy Konwinski, Holden Karau, Matei Zaharia, Patrick Wendell (OReilly,  2015)
 5. Machine Learning in Python (Essential Techniques For Predictive Analysis) By: Michael Bowles
-
+6. Machine Learning for Absolute Beginners. A Plain English Introduction (Oliver Theobald, 3e) - Scatterplot Press (2020)
 
 .................................................................... 
 
@@ -263,7 +256,13 @@ Natural Language Processing: 
 
 1. Steven Bird, Ewan Klein, Edward Loper - Natural Language Processing with Python - O'Reilly Media (2009)
 
+
+Generative AI Books:
+
+1. Joseph Babcock, Raghav Bali - Generative AI with Python and TensorFlow 2 - Create images, text, and music with VAEs, GANs, LSTMs, Transformer models-Packt Publishing (2021)
+
 ...................................................................
+
 Machine Learning Courses
 1: Udacity - Machine Learning - Unsupervised Learning - Free Mini Course
 https://classroom.udacity.com/courses/ud741
