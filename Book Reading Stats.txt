@@ -10,6 +10,65 @@ B.
 
 ============================================================================
 
+Book: 9_Think-Like-A-Monk (by Jay Shetty)
+
+Lines per page: 32
+Avg words per line: (12 + 11 + 15 + 16 + 14) / 5 = 13.6
+Avg words per page: 435.2
+
+
+8-Dec-2023:
+
+WPM: ((49 - 34) + 1) * 435.2 / 25 = 278.528
+
+10-Dec-2023:
+
+WPM: ((61 - 49) + 1) * 435.2 / 30 = 188.58
+WPM: ((74 - 61) + 1) * 435.2 / 30 = 203.09
+
+11-Dec-2023: WPM: ((110 - 99) + 1) * 435.2 / 25 = 208.89
+
+12-Dec-2023: WPM: ((127 - 111) + 1) * 435.2 / 25 = 295.93
+
+13-Dec-2023: WPM: ((138 - 128) + 1) * 435.2 / 25 = 191.48
+
+14-Dec-2023: WPM: ((150 - 139) + 1) * 435.2 / 25 = 208.89
+
+
+Est. time required to read: ((274 - 253) * 435.2 / 180)
+
+============================================================================
+
+Book: Emotional intelligence 2.0 (2009, Bradberry, Travis_Greaves, Jean)
+
+Lines per page: 23
+Avg words per line: (9 + 11 + 12 + 8 + 11) / 5 = 10.2
+Avg words per page: 235
+
+Page count: 250 - 10 = 240
+
+Approx. word count: 240 * 235 = 56400
+Est. time required to read: (56400 / 180) = 314
+
+Read From: 129
+
+1-Dec-2023:
+
+WPM: ((129 - 94) + 1) * 235 / 30 = 282
+
+A.
+1. Regression (-): 4
+2. Word by word reading (-): 2
+3. Pronouncing (-): 2
+4. Vocabulary: 4
+5. Concentration: 4
+
+B.
+1. Comprehension: 4
+
+
+============================================================================
+
 Book: Mnookin, Robert - Bargaining with the devil. When to negotiate, when to fight.
 
 Lines per page: 35
@@ -52,27 +111,19 @@ Est. time required to read the book: (73590 / 180) = 408.8
 
 RF 27
 
+
+
 ============================================================================
 
-Book: Emotional intelligence 2.0 (2009, Bradberry, Travis_Greaves, Jean)
+Book: 11_Rewire your brain 2.0 (JOHN B. ARDEN, PhD)
 
-Lines per page: 23
-Avg words per line: (9 + 11 + 12 + 8 + 11) / 5 = 10.2
-Avg words per page: 235
-
-Page count: 250 - 10 = 240
-
-Approx. word count: 240 * 235 = 56400
-Est. time required to read: (56400 / 180) = 314
-
-RF 92/111
+RF: 31
 
 ============================================================================
 
 Book: James W. Pennebaker, John E. Evans - Expressive Writing_ Words that Heal-Idyll Arbor (2014)
 
 RF: 61
-
 
 ============================================================================
 
@@ -89,16 +140,24 @@ Ch 6: Deep Feedforward networks
 Book: Andriy Burkov - The Hundred-Page Machine Learning Book (2019)
 RF 45
 
+
 Book: Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia - Learning Spark. Lightning-Fast Big Data Analysis (O'Reilly Media, 2015)
 
 Book: David Flanagan - Canvas Pocket Reference - OReilly Media (2010)
 
 Book: Hobson Lane - NLP in Action_ Understanding, analyzing, and generating text with Python (2019, Manning)
-
 RF 274
 
 
 
 ============================================================================
 
+
+
+Book: Christopher M. Bishop - Pattern Recognition and Machine Learning-Springer (2006)
+
+20 Dec: Pages 10 - 29
+
+
+============================================================================
 
