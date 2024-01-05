@@ -10,32 +10,18 @@ B.
 
 ============================================================================
 
-Book: 9_Think-Like-A-Monk (by Jay Shetty)
+Book: Why We Meditate: 7 Simple Practices for a Calmer Mind (Daniel Goleman, 2022)
 
-Lines per page: 32
-Avg words per line: (12 + 11 + 15 + 16 + 14) / 5 = 13.6
-Avg words per page: 435.2
+Lines per page: 33
+Avg words per line: (11 + 15 + 12 + 15 + 14) / 5 = 13.4
+Avg words per page: 442.2
 
-
-8-Dec-2023:
-
-WPM: ((49 - 34) + 1) * 435.2 / 25 = 278.528
-
-10-Dec-2023:
-
-WPM: ((61 - 49) + 1) * 435.2 / 30 = 188.58
-WPM: ((74 - 61) + 1) * 435.2 / 30 = 203.09
-
-11-Dec-2023: WPM: ((110 - 99) + 1) * 435.2 / 25 = 208.89
-
-12-Dec-2023: WPM: ((127 - 111) + 1) * 435.2 / 25 = 295.93
-
-13-Dec-2023: WPM: ((138 - 128) + 1) * 435.2 / 25 = 191.48
-
-14-Dec-2023: WPM: ((150 - 139) + 1) * 435.2 / 25 = 208.89
+Est. time required to read: ((141 - 15) * 442.2 / 180) = 309.54
 
 
-Est. time required to read: ((274 - 253) * 435.2 / 180)
+
+
+8-Dec-2023: WPM: ((49 - 34) + 1) * 435.2 / 25 = 278.528
 
 ============================================================================
 
@@ -133,6 +119,8 @@ RF: 222 / 245
 
 ============================================================================
 
+TECHNICAL BOOKS
+
 Book: Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning-The MIT Press (2016)
 RF 181
 Ch 6: Deep Feedforward networks
@@ -152,12 +140,10 @@ RF 274
 
 ============================================================================
 
-
-
 Book: Christopher M. Bishop - Pattern Recognition and Machine Learning-Springer (2006)
 
-20 Dec: Pages 10 - 29
-
+20 Dec 2023: Pages 10-29
+26 Dec 2023: Pages 30-38
 
 ============================================================================
 

@@ -1,0 +1,49 @@
+
+
+......................
+
+Technology Books:
+1. PL/SQL (2)
+2. Oracle OLAP
+3. KnockoutJS
+4. AngularJS in 60 minutes - Dan Wahlin
+5. Jasper Reporting
+6. AngularJS Up and Running
+7. Mastering bitcoin - Andrew M Antonopoulos
+8. Designing Bots: Creating Conversational Experiences [1e] (Amir Shevat)
+9. Hands-on Chatbots and Conversational UI Development (Packt) by Srini Janarthanam
+10. Jamie Munro - Knockout.js (O'Reilly Media, 2014)
+11. Learn Python in One Day and Learn It Well. Python for Beginners with Hands-on Project (2017, Jamie Chan)
+
+....................................................................
+
+Machine Learning Books:
+1. Machine Learning (Tom Mitchell, MGH, 1997)
+2. Pattern Recognition and Machine Learning (Bishop, Springer 2006)
+3. Hands on ML, skLearn and Tensorflow (Oreilly, 1e, Aurelion Geron) [X2]
+4. Learning Spark (Lightning fast big data analysis) - Andy Konwinski, Holden Karau, Matei Zaharia, Patrick Wendell (OReilly,  2015)
+5. Machine Learning in Python (Essential Techniques For Predictive Analysis) By: Michael Bowles
+6. Machine Learning for Absolute Beginners. A Plain English Introduction (Oliver Theobald, 3e) - Scatterplot Press (2020)
+
+.................................................................... 
+
+Natural Language Processing: 
+
+1. Steven Bird, Ewan Klein, Edward Loper - Natural Language Processing with Python - O'Reilly Media (2009)
+
+
+Generative AI Books:
+
+1. Joseph Babcock, Raghav Bali - Generative AI with Python and TensorFlow 2 - Create images, text, and music with VAEs, GANs, LSTMs, Transformer models-Packt Publishing (2021)
+
+...................................................................
+
+Machine Learning Courses
+1: Udacity - Machine Learning - Unsupervised Learning - Free Mini Course
+https://classroom.udacity.com/courses/ud741
+..................................................................
+Book not found: A Return to Love (Marianne Williamson)
+Competitive Strategy and Industry Analysis (By Michael Porter)
+Franz Khafka Author
+
+-------------------------------------------------------
